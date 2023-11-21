@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-size: 1em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  color: green;
+}
+
+.bgtext {
+  color: black;
+  text-align: center;
+  padding: 500px 0px;
+  margin: 0px;
+}
+.bgimg1 {
+  background-image: url("./images/1-Snow-background.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg2 {
+  background-image: url("./images/3-Autumn.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg3 {
+  background-image: url("./images/4-Rain.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg4 {
+  background-image: url("./images/5-Kos-background.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg5 {
+  background-image: url("./images/6-Kos.JPG");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
